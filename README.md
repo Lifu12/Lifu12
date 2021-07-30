@@ -1,11 +1,5 @@
-https://img.shields.io/github/issues/Lifu12/Lifu12
-https://img.shields.io/github/forks/Lifu12/Lifu12
-https://img.shields.io/github/stars/Lifu12/Lifu12
-https://img.shields.io/github/license/Lifu12/Lifu12
-https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FLifu12%2FLifu12
-
-
-#### 我是kun哥,java后端开发工程师,懂一点前端,喜欢研究一些新技术 👋
+![redis](https://img.shields.io/badge/Redis-5.0+-yellow.svg)
+#### ⚡ Fun fact:我是kun哥,java后端开发工程师,懂一点前端,喜欢研究一些新技术 👋
 
 <!--
 **Lifu12/Lifu12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
