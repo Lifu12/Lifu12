@@ -1,4 +1,6 @@
-### 我是kun个哥,java后端开发工程师,懂一点前端,喜欢研究一些新技术 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+#### 我是kun个哥,java后端开发工程师,懂一点前端,喜欢研究一些新技术 👋
 
 <!--
 **Lifu12/Lifu12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
